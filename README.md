@@ -1,4 +1,4 @@
-## HVAC Full Stack prototype
+## HVAC Full Stack Prototype
 
 ### General
 This project is a working prototype for a home thermostat that stores heat and A/C usage to a MYSQL database and publishes it to a browser-based dashboard.
