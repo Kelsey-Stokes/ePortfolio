@@ -20,7 +20,7 @@ insert dashboard image (clicking will open the page)
 ## How it began
 I started by reviewing the code of my existing project.
 
-[![Error playing video](https://www.youtube.com/watch?v=glA8dEty4Rw)
+(https://www.youtube.com/watch?v=glA8dEty4Rw)
 
 
 ### Server Side Files
