@@ -25,10 +25,10 @@ To learn more about how I improved in each different category, click the links b
 
 
 ## How it turned out
-<p style="text-align:center;">
+
 Click on the image below to see my dashboard working live!
 [![Dashboard Image](https://raw.githubusercontent.com/Kelsey-Stokes/ePortfolio/gh-pages/images/dashboard_image.png)](http://my-hvac-dashboard.online/)
-  </p>
+
 
 
 ### Server Side Files
