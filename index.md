@@ -8,9 +8,7 @@ The project featured in this ePortfolio is a thermostat prototype that keeps tra
 insertData.php is a server-side script that reads data from the .csv file and sends it to the database. The database stores three pieces of information: the date, the number of hours the heat was on, and the number of hours the A/C was on. On the client side, getData.php connects to the database and queries for all entries from the current month. Another file, operations.php, calculates the approximate wattage and costs associated with heating and cooling. Finally, index.php uses HTML and Canvas.js with all the gathered data to render charts and organize them on the page to create the dashboard.
 
 ```markdown
-## How it began
-I started by reviewing the code of my existing project.
-[https://i.ytimg.com/vi/glA8dEty4Rw/maxresdefault.jpg](https://www.youtube.com/watch?v=glA8dEty4Rw)
+
 
 
 ## The Process
@@ -19,6 +17,10 @@ insert narratives here
 ## How it turned out
 insert dashboard image (clicking will open the page)
 ```
+## How it began
+I started by reviewing the code of my existing project.
+[https://i.ytimg.com/vi/glA8dEty4Rw/maxresdefault.jpg](https://www.youtube.com/watch?v=glA8dEty4Rw)
+
 ### Server Side Files
 - [thermostat_prototype.c](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Back%20End/Thermostat_Prototype/thermostat_prototype.c)
 - [dataInsert.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Back%20End/dataInsert.php)
