@@ -26,7 +26,7 @@ To learn more about how I improved in each different category, click the links b
 
 ## How it turned out
 Click on the image below to see my dashboard working live!
-[https://ibb.co/Pr4LjYR](http://my-hvac-dashboard.online/)
+[https://imgur.com/a/P6q6LKl](http://my-hvac-dashboard.online/)
 
 
 ### Server Side Files
