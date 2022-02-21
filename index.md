@@ -10,7 +10,7 @@ insertData.php is a server-side script that reads data from the .csv file and se
 ```markdown
 ## How it began
 I started by reviewing the code of my existing project.
-[![Video Issue](https://i.ytimg.com/vi/glA8dEty4Rw/maxresdefault.jpg)](https://www.youtube.com/watch?v=glA8dEty4Rw)
+[https://i.ytimg.com/vi/glA8dEty4Rw/maxresdefault.jpg](https://www.youtube.com/watch?v=glA8dEty4Rw)
 
 
 ## The Process
