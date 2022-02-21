@@ -23,7 +23,7 @@ insert dashboard image (clicking will open the page)
 - [Microprocessor Configuration File](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Back%20End/Thermostat_Prototype/gpiointerrupt.syscfg)
 
 ### Client Side Files
-- [index.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/index.php]
+- [index.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/index.php)
 - [operations.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/operations.php)
 
 
