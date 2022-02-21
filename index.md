@@ -18,14 +18,13 @@ insert narratives here
 insert dashboard image (clicking will open the page)
 ```
 ### Server Side Files
--[dataInsert.php](/Back End/dataInsert.php)
--[thermostat_prototype.c](ePortfolio/Back End/Thermostat_Prototype/thermostat_prototype.c)
--[Microprocessor Configuration File](Back End/Thermostat_Prototype/gpiointerrupt.syscfg)
+-[thermostat_prototype.c](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Back%20End/Thermostat_Prototype/thermostat_prototype.c)
+-[dataInsert.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Back%20End/dataInsert.php)
+-[Microprocessor Configuration File](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Back%20End/Thermostat_Prototype/gpiointerrupt.syscfg)
 
 ### Client Side Files
--[index.php](Front End/index.php)
--[getData.php](Front End/getData.php)
--[operations.php](Front End/operations.php)
+-[index.php](Front End/index.phphttps://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/index.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/getData.php)
+-[operations.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/operations.php)
 
 
 **Bold** and _Italic_ and `Code` text
