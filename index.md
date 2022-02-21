@@ -19,7 +19,11 @@ insert dashboard image (clicking will open the page)
 ```
 ## How it began
 I started by reviewing the code of my existing project.
-[https://i.ytimg.com/vi/glA8dEty4Rw/maxresdefault.jpg](https://www.youtube.com/watch?v=glA8dEty4Rw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glA8dEty4Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Alt text](https://i.ytimg.com/vi/glA8dEty4Rw/maxresdefault.jpg)](https://www.youtube.com/watch?v=glA8dEty4Rw)
+
 
 ### Server Side Files
 - [thermostat_prototype.c](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Back%20End/Thermostat_Prototype/thermostat_prototype.c)
