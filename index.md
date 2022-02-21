@@ -20,7 +20,7 @@ insert dashboard image (clicking will open the page)
 ## How it began
 I started by reviewing the code of my existing project.
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=glA8dEty4Rw)
+[![Alt text](https://i.ytimg.com/vi/glA8dEty4Rw/maxresdefault.jpg)](https://www.youtube.com/watch?v=glA8dEty4Rw)
 
 
 
