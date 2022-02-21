@@ -26,7 +26,7 @@ To learn more about how I improved in each different category, click the links b
 
 ## How it turned out
 Click on the image below to see my dashboard working live!
-![https://ibb.co/Pr4LjYR](http://my-hvac-dashboard.online/)
+[https://ibb.co/Pr4LjYR](http://my-hvac-dashboard.online/)
 
 
 ### Server Side Files
@@ -37,19 +37,3 @@ Click on the image below to see my dashboard working live!
 ### Client Side Files
 - [index.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/index.php)
 - [operations.php](https://github.com/Kelsey-Stokes/ePortfolio/blob/gh-pages/Front%20End/operations.php)
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kelsey-Wyer/ePortfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
