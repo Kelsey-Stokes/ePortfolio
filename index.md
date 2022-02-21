@@ -9,7 +9,8 @@ insertData.php is a server-side script that reads data from the .csv file and se
 
 ```markdown
 ## How it began
-insert code review here
+I started by reviewing the code of my existing project.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glA8dEty4Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Process
 insert narratives here
