@@ -18,8 +18,8 @@ insert narratives here
 insert dashboard image (clicking will open the page)
 ```
 ### Server Side Files
--[dataInsert.php](Back End/dataInsert.php)
--[thermostat_prototype.c](Back End/Thermostat_Prototype/thermostat_prototype.c)
+-[dataInsert.php](/Back End/dataInsert.php)
+-[thermostat_prototype.c](ePortfolio/Back End/Thermostat_Prototype/thermostat_prototype.c)
 -[Microprocessor Configuration File](Back End/Thermostat_Prototype/gpiointerrupt.syscfg)
 
 ### Client Side Files
